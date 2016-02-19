@@ -1,3 +1,4 @@
+
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates the file for saving the git metadata.
@@ -5,3 +6,11 @@ It creates the file for saving the git metadata.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It offers a way to think about your commit logically before it happens.
+
+What are some situation when branches would be helpful in keeping with your history organized? How would branches help?
+
+I can test how new features without worrying about ruining the originial file!
+
+How do the diagrams help you visualize the branch structure?
+
+They help me see all the difference branches and how they releate to each other!
